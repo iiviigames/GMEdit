@@ -1,5 +1,5 @@
 ## GMEdit
-# This is a fork of the original GMEdit.
+### This is a fork of the original GMEdit.
 Please find the original Repo here [GMEdit](https://github.com/GameMakerDiscord/GMEdit) and thank those responsible for this beautiful piece of software!
 
 This is an experimental open-source code editor for GameMaker: Studio / GameMaker Studio 2 projects.
